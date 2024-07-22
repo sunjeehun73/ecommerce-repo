@@ -1,0 +1,4 @@
+jwt:
+  expiration_time: 86400000 #1일
+  secret: sunjeehunsecretkeyis12345678901234567890_local
+  
