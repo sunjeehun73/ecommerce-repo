@@ -1,4 +1,3 @@
 jwt:
   expiration_time: 86400000 #1일
-  secret: sunjeehunsecretkeyis12345678901234567890
-  
+  secret: '{cipher}AQBL8DTyNs7TkakQsFZNx+f2vxkYPGxv0aqueEejSprk0eJ8oDlsZo+N2FjaRv3tAjt4uI3HWQM2vT1COsZSPFbCaGfzfYgNgpN28zV/nci15f1/18DKJwJKwPovsjBOAzfp/kWx5obgBbqzlcPeJmGiM2+0xrRKdY8dZRjt9b57e9SLcDmP/8iFc07URo0PjDSeJ6Kxs/KcR5Wp+c7T2/jN9AWWm9a3FJKBumTCPaNM+cZ+6pWS2Y2f1IlUoFvfgCZTGXxeY1McGKQyZ4sWsjDpGRirxDEkAfyRnOq0/e/A2alAhlBnF5SbgUmqGERP7vPCTyAN/lLakHUvQqoxNLh0+aWQUmvBpzTj7nzZZKbvR/Olt+ogofIclhVrJb9gF43LeejvNL7LYV4fojr0jqrIttnxavS6+k0ol/wQYKixqQ=='
