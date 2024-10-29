@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:mysql://cmmndevmysql.mysql.database.azure.com:3306/msa_ecommerce?serverTimezone=Asia/Seoul&allowMultiQueries=true&characterEncoding=UTF-8&useSSL=false
+    hikari:
+      username: cloudporteadmin
+      password: '{cipher}AQA0K83HtSruA74RMHSoqUtxruQa805ZYmZVtm95Xj1VXUlPjm3a2w4Q7JpYXmcT9jLaLCIoT9Bv9D5fFldca22dFKtrCxkGAVd4Pdcbbv/EB4oGvfxi9+2jVkuhNBJLwomgaI5a4Cje/6+4AjoYRf/2biOKG9ASnLip18ke/ZTjY0a/34vxIFMoOBtoI3pbJ+FA/7fWmjYXn4qwoxahnhdLHIa/ztGw/0+LpX0HbfV93+3I/WwqA+D1+GK45CE7XJyv6OoSVts3df/kYO/NRPXGlXlgDZK6NdKuu1pZdl1iIFtQBGaOZcjPLYZy5ImW/CT9SFBQ8shp/4ZNMuJX6V7e+Pq+MVI5YnjeRSyfMsgaEjfUq4DuhrzRuFL3F74EeV4='
+      maximum-pool-size: 15
+      max-lifetime: 170000      
+    driver-class-name: com.mysql.cj.jdbc.Driver     
